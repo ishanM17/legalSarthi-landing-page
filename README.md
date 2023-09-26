@@ -1,1 +1,1 @@
-# legalSarthi-landing-page
+# tindog-start-up-landing-page
